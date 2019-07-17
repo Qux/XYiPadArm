@@ -9,7 +9,7 @@
 constexpr char ROTATION_SERVO_PIN = 10;
 constexpr char ROTATION_SERVO_CONTROL_POT_PIN = A0;
 
-constexpr char NORMAL_SERVO_PIN = 9;
+constexpr char NORMAL_SERVO_PIN = 11;
 constexpr char NORMAL_SERVO_CONTROL_POT_PIN = A1;
 
 Servo rotation_servo;
